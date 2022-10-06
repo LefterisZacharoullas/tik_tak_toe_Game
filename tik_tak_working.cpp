@@ -1,7 +1,5 @@
 //###########################################
-//###    Tic Tac Toc Game by georgeat     ###
-//###     All rights reserver @ 2022      ###
-//###  Dedicated to my beloved students   ###
+//###    Tic Tac Toc Game by LEFTERIS     ###
 //###########################################
 #include <iostream>
 using namespace std;
